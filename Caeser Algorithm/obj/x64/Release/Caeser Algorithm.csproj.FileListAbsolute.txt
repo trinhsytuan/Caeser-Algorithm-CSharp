@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Caeser Algorithm\Caeser Algorithm\bin\x64\Release\Caeser Algorithm.exe.config
+C:\Users\Admin\source\repos\Caeser Algorithm\Caeser Algorithm\bin\x64\Release\Caeser Algorithm.exe
+C:\Users\Admin\source\repos\Caeser Algorithm\Caeser Algorithm\bin\x64\Release\Caeser Algorithm.pdb
+C:\Users\Admin\source\repos\Caeser Algorithm\Caeser Algorithm\obj\x64\Release\Caeser Algorithm.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Caeser Algorithm\Caeser Algorithm\obj\x64\Release\Caeser_Algorithm.Form1.resources
+C:\Users\Admin\source\repos\Caeser Algorithm\Caeser Algorithm\obj\x64\Release\Caeser_Algorithm.Properties.Resources.resources
+C:\Users\Admin\source\repos\Caeser Algorithm\Caeser Algorithm\obj\x64\Release\Caeser Algorithm.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Caeser Algorithm\Caeser Algorithm\obj\x64\Release\Caeser Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Caeser Algorithm\Caeser Algorithm\obj\x64\Release\Caeser Algorithm.exe
+C:\Users\Admin\source\repos\Caeser Algorithm\Caeser Algorithm\obj\x64\Release\Caeser Algorithm.pdb
